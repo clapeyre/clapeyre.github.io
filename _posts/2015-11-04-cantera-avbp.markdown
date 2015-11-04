@@ -7,7 +7,8 @@ categories: cantera avbp homebrew
 
 ## The Cantera software
 
-Cantera is now fairly easy to install on a Mac thanks to the
+[Cantera](http://www.cantera.org/) is a powerful suite of software for chemical
+kinetics.  It is now fairly easy to install on a Mac thanks to the
 [Homebrew](http://brew.sh/) package manager.  Once homebrew is installed,
 Cantera can simply be installed using:
 
