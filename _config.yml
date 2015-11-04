@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Homepage of Corentin Lapeyre, postdoctoral fellow in numerical
   simulation of combustion physics at IMFT, Toulouse France
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://corentinlapeyre.com" # the base hostname & protocol for your site
+url: "http://clapeyre.github.io" # the base hostname & protocol for your site
 
 # Includes an icon in the footer for each username you enter
 footer-links:
