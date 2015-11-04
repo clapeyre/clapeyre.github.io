@@ -6,8 +6,22 @@ description: > # this means to ignore newlines until "baseurl:"
   simulation of combustion physics at IMFT, Toulouse France
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://corentinlapeyre.com" # the base hostname & protocol for your site
-twitter_username: c_lapeyre
-github_username:  clapeyre
+
+# Includes an icon in the footer for each username you enter
+footer-links:
+  dribbble:
+  email: corentin.lapeyre@gmail.com
+  facebook: corentin.lapeyre
+  flickr:
+  github: clapeyre
+  instagram:
+  linkedin: corentinlapeyre
+  pinterest:
+  rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
+  twitter: c_lapeyre
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  youtube: user/MrAspleet # channel/<your_long_string> or user/<user-name>
+  googleplus: +CorentinLapeyre # anything in your profile username that comes after plus.google.com/
 
 # Build settings
 markdown: kramdown
