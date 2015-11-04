@@ -1,0 +1,13 @@
+# Site settings
+title: Homepage of Corentin Lapeyre
+email: corentin.lapeyre@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Homepage of Corentin Lapeyre, postdoctoral fellow in numerical
+  simulation of combustion physics at IMFT, Toulouse France
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://corentinlapeyre.com" # the base hostname & protocol for your site
+twitter_username: c_lapeyre
+github_username:  clapeyre
+
+# Build settings
+markdown: kramdown
