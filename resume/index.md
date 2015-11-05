@@ -3,8 +3,7 @@ layout: page
 title: Resume
 ---
 
-Experiences
------------
+## Positions
 - May 2015 - current : postdoctoral fellow at [IMFT](https://www.imft.fr/Particules-Sprays-et-Combustion)
 - 2012 - 2014 : Teaching assistant in physics at [EIPurpan](http://www.purpan.fr/).
   Total of ~100 hours.
@@ -13,8 +12,7 @@ Experiences
 - 2009 - 2010 : Translation from French to English of a [fluid dynamics textbook](https://www.springer.com/fr/book/9783319161594)
 - Up to 2009 : Several years of private tutoring (highschool level)
 
-Education
----------
+## Education
 - 2011 - 2115 : Ph.D. in numerical combustion at
   [CERFACS](http://cerfacs.fr/computational-fluid-dynamics/) titled "Numerical
   study of flame stability, stabilization and noise in a swirl-stabilized
