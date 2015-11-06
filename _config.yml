@@ -7,6 +7,15 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://clapeyre.github.io" # the base hostname & protocol for your site
 
+# Build settings
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "strikethrough", "superscript", "underline", "with_toc_data"]
+
+#markdown: kramdown
+#kramdown:
+#  input: GFM
+
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
@@ -23,5 +32,3 @@ footer-links:
   youtube: user/MrAspleet # channel/<your_long_string> or user/<user-name>
   googleplus: +CorentinLapeyre # anything in your profile username that comes after plus.google.com/
 
-# Build settings
-markdown: kramdown
