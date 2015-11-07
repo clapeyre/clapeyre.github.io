@@ -5,20 +5,18 @@ date:   2015-11-06 17:36:00
 categories: tests
 ---
 
-{% include mathjs.html %}
-
-# Markdown is cool
+## Markdown is cool
 
 I'm really linking this new markdown thing. Taks a little tweaking and getting
 used to but it's kind of awesmome. So easy to read!
 
-## Quoting
+### Quoting
 
 You can quote stuff:
 
 > We choose to go to the moon, not because it's easy, but because it's hard.
 
-## Listing
+### Listing
 
 Apparently bullet lists should use `-` but not `+` or `*`:
 
@@ -40,10 +38,10 @@ Numered lists however
 
         1.
 
-1.   because its better form **many** reasons
+1.   because it's better for **many** reasons
 
 
-## Code blocks
+### Code blocks
 
 Code blocks are important too. *E.g.*:
 
@@ -64,7 +62,7 @@ sudo rm -rf /
 
 so don't do it!
 
-## Tables
+### Tables
 
 We can even do tables! *How* awesome is this thing?
 
@@ -80,7 +78,7 @@ First Header  | Second Header
 Content Cell  | Content Cell
 Content Cell  | Content Cell
 
-## Math
+### Math
 
 That's important too for \\(f(x)\\):
 
@@ -92,6 +90,6 @@ f(x) &= \int_{\tau=0}^{\infty} \tilde{f}(\tau)e^{i \omega \tau} d\tau
 $$
 </div>
 
-## Superscript, underline
+### Superscript, underline
 
 Yup, 10 m^2 is a surface. Want a 2^(nd)? Nah... Gotta talk about _underlining_.
