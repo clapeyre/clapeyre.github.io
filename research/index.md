@@ -6,9 +6,10 @@ title: Research
 Publications
 ---
 - Lapeyre, C.J., Mazur, M., Scouflaire, P., Richecoeur, F, Ducruix, S., Poinsot,
-  T. 2015 *Acoustically induced vortex core flashback in a staged
+  T. 2016 *Acoustically induced vortex core flashback in a staged
   swirl-stabilized combustor.* Under consideration for publication in Flow,
   Turbulence and Combustion.
+- Huet, M., Vuillot, F., Bertier, N., Mazur, M., Kings, N., Tao, W., Scouflaire, P., Richecoeur, F., Ducruix, S., Lapeyre, C., Poinsot, T. 2016 *Recent improvements in combustion noise investigation: from combustion chamber to nozzle flow* Under consideration for publication in Aerospace Lab
 
 
 Conferences
