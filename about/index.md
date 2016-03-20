@@ -15,13 +15,14 @@ confirmed my taste for technological challenges, from computer-aided design and
 optimisation to production and quality control.  I then decided to turn to
 aerospace engineering, and completed my masters in this field.  After 6 months
 at Purdue, I found an opportunity for a Ph.D. in numerical combustion physics
-in France, and I decided to go back.  I successfully defended my Ph.D. in
-September of 2015, and I am continuing to study combustion physics as a
-postdoctoral fellow.
+in France, and I decided to go back.  I defended my Ph.D. in September of 2015,
+and I am continuing to study combustion physics as a postdoctoral fellow.
 
 During the course of my studies, I have extensively used and learned about
 computer-aided design, as well as low and high level coding.  I have worked
-with Fortran/MPI for High Performance Computing applications, and with Python
-extensively for scientific computing.  I am a daily user of git, vim and LaTeX.
-I strongly believe that the scientific world is often too far from modern
-programming tools, and would greatly benefit from it.
+with Fortran/MPI for High Performance Computing applications, and with
+[Python](https://www.python.org/) extensively for scientific computing.  I am a
+daily user of [git](https://git-scm.com/), [vim](http://www.vim.org/) and
+[LaTeX](https://tug.org/mactex/) on Mac OS and Unix platforms.  I strongly
+believe that the scientific world is often too far from modern programming
+tools, and would greatly benefit from it.

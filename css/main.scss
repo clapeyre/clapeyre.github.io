@@ -24,6 +24,13 @@ $grey-color-dark:  darken($grey-color, 25%);
 $on-palm:          600px;
 $on-laptop:        800px;
 
+$button-width: 96px;                    // The width of the button area
+$button-height: 96px;                   // The height of the button area
+$bar-thickness: 8px;                    // The thickness of the button bars
+$button-pad: 18px;                      // The left/right padding between button area and bars.
+$button-bar-space: 12px;                // The spacing between button bars
+$button-transistion-duration: 0.3s;     // The transition duration
+
 
 
 // Using media queries with like this:
@@ -45,5 +52,6 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting",
         "svg-icons",
-        "tables"
+        "tables",
+        "components.hamburger"
 ;
