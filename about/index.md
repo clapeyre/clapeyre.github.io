@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-[comment]: ![Portrait]({{ site.baseurl }}/figs/portrait.png)
+[comment]: ![Portrait]({{ site.baseurl }}/figs/portrait.jpg)
 <img src="portrait.png" width="40%" align="right">
 
 Hi, I'm Corentin Lapeyre. Born in Toulouse France, brought up there and in
