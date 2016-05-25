@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 [comment]: ![Portrait]({{ site.baseurl }}/figs/portrait.jpg)
-<img src="portrait.png" width="40%" align="right">
+<img src="portrait.jpg" width="40%" align="right">
 
 Hi, I'm Corentin Lapeyre. Born in Toulouse France, brought up there and in
 Berkeley, CA, I have always been passionate about physics. I completed a
