@@ -8,10 +8,10 @@ Publications
 - Huet, M., Vuillot, F., Bertier, N., Mazur, M., Kings, N., Tao, W.,
   Scouflaire, P., Richecoeur, F., Ducruix, S., Lapeyre, C., Poinsot, T.
   Recent improvements in combustion noise investigation: from combustion
-  chamber to nozzle flow. Under consideration for publication in *Aerospace
-  Lab* (2016)
+  chamber to nozzle flow. *Aerospace Lab* (June 2016)
+  [link](http://www.aerospacelab-journal.org/sites/www.aerospacelab-journal.org/files/AL11-10.pdf)
 - Lapeyre, C.J., Mazur, M., Scouflaire, P. et al. Acoustically Induced Flashback
-  in a Staged Swirl-Stabilized Combustor *Flow Turbulence Combust* (2016).
+  in a Staged Swirl-Stabilized Combustor *Flow Turbulence and Combustion* (2016).
   [doi:10.1007/s10494-016-9745-2](http://link.springer.com/article/10.1007/s10494-016-9745-2)
 
 
