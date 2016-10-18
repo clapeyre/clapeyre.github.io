@@ -14,7 +14,7 @@ title: Resume
 
 ## Education
 - 2011 - 2115 : Ph.D. in numerical combustion at
-  [CERFACS](http://cerfacs.fr/computational-fluid-dynamics/) titled ["Numerical
+  [CERFACS](http://cerfacs.fr/computational-fluid-dynamics/): ["Numerical
   study of flame stability, stabilization and noise in a swirl-stabilized
   combustor under choked conditions"](http://www.theses.fr/2015INPT0140).
   [Defense video](http://hypnos.cerfacs.fr/videos/?video=MEDIA150918095835455)
