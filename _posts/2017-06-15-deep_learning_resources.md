@@ -37,6 +37,7 @@ Generative Adversarial Networks:
   - [An introduction to GANs](http://blog.aylien.com/introduction-generative-adversarial-networks-code-tensorflow/)
   - [Super resolution using GAN](http://www.gitxiv.com/posts/5Z9gyGthtEhoroGzg/photo-realistic-single-image-super-resolution-using-a)
   - The hot stuff: [CycleGAN](https://hardikbansal.github.io/CycleGANBlog/)
+  - [Super-Resolution Benchmark](https://github.com/huangzehao/Super-Resolution.Benckmark)
 
 ### High Dimension
 
