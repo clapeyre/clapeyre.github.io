@@ -13,6 +13,9 @@ Deep Learning.
 
 ## Learning about Deep Learning
 
+I gave a [talk]({{ site.baseurl }}/data/JUN27_Talk_Deep_Learning.pdf)
+recently at CERFACS which can give some ideas.
+
 ### Neural Nets
 
 Introductory material:
@@ -38,6 +41,10 @@ Generative Adversarial Networks:
   - [Super resolution using GAN](http://www.gitxiv.com/posts/5Z9gyGthtEhoroGzg/photo-realistic-single-image-super-resolution-using-a)
   - The hot stuff: [CycleGAN](https://hardikbansal.github.io/CycleGANBlog/)
   - [Super-Resolution Benchmark](https://github.com/huangzehao/Super-Resolution.Benckmark)
+
+Style transfer:
+
+  - [Long tutorial on style transfer](https://harishnarayanan.org/writing/artistic-style-transfer/)
 
 ### High Dimension
 
