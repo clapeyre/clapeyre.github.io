@@ -13,8 +13,9 @@ Deep Learning.
 
 ## Learning about Deep Learning
 
-I gave a [talk]({{ site.baseurl }}/data/JUN27_Talk_Deep_Learning.pdf)
-recently at CERFACS which can give some ideas.
+I gave a [talk](http://hypnos.cerfacs.fr/videos/?video=MEDIA170627163436093)
+recently at CERFACS which can give you some ideas. The
+[slides]({{ site.baseurl }}/data/JUN27_Talk_Deep_Learning.pdf) are also avaiable.
 
 ### Neural Nets
 
