@@ -4,7 +4,8 @@ title: Resume
 ---
 
 ## Positions
-- May 2015 - current : postdoctoral fellow at [IMFT](https://www.imft.fr/Particules-Sprays-et-Combustion)
+- November 2016 - Present : posdotoral fellow at [CERFACS](http://cerfacs.fr/computational-fluid-dynamics/)
+- May 2015 - October 2016 : postdoctoral fellow at [IMFT](https://www.imft.fr/Particules-Sprays-et-Combustion)
 - 2012 - 2014 : Teaching assistant in physics at [EIPurpan](http://www.purpan.fr/).
   Total of ~100 hours.
 - April - September 2011 : Reasearch assistant at [Purdue university](https://engineering.purdue.edu/AAE)
