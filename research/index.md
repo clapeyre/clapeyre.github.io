@@ -9,13 +9,13 @@ Publications
 - Thiesset, F., Halter, F., Bariki, C.e, Lapeyre, C.,
   Chauveau, C., Gokalp, I., Selle, L., Poinsot, T. Isolating strain and
   curvature effects in premixed flame/vortex interactions. *Journal of
-  Fluid Mechanics* (2017)
+  Fluid Mechanics* (2017) [doi:10.1017/jfm.2017.641](https://doi.org/10.1017/jfm.2017.641)
 
 - Huet, M., Vuillot, F., Bertier, N., Mazur, M., Kings, N., Tao, W.,
   Scouflaire, P., Richecoeur, F., Ducruix, S., Lapeyre, C., Poinsot, T.
   Recent improvements in combustion noise investigation: from combustion
   chamber to nozzle flow. *Aerospace Lab* (June 2016)
-  [link](http://www.aerospacelab-journal.org/sites/www.aerospacelab-journal.org/files/AL11-10.pdf)
+  [doi:10.12762/2016.AL11-10](http://www.aerospacelab-journal.org/sites/www.aerospacelab-journal.org/files/AL11-10.pdf)
 
 - Lapeyre, C.J., Mazur, M., Scouflaire, P. et al. Acoustically Induced Flashback
   in a Staged Swirl-Stabilized Combustor *Flow Turbulence and Combustion* (2016).
