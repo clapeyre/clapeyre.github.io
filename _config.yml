@@ -9,12 +9,11 @@ url: "http://clapeyre.github.io" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
-redcarpet:
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "strikethrough", "superscript", "underline", "with_toc_data"]
 
-#markdown: kramdown
-#kramdown:
-#  input: GFM
+# Markdown Processors
+kramdown:
+  input: GFM
+  hard_wrap: false
 
 # Includes an icon in the footer for each username you enter
 footer-links:
