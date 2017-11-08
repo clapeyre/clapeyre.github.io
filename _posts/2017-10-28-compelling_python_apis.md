@@ -146,8 +146,7 @@ where he states:
 While this is said of a web/mobile app, I believe the developer is no
 different, and has a trove of libraries at his disposal. If a library is
 to retain his attention, every step of the journey has to be crafted to
-make it lovable - from first contact to full blown usage. It must be
-"*lovable*".
+make it "*lovable*" - from first contact to full blown usage.
 
 ## What to look for
 
