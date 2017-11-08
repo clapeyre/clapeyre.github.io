@@ -41,14 +41,14 @@
         }
     }
 
-    @include media-query($on-palm) {
-        position: absolute;
-        top: 9px;
-        right: 30px;
-        background-color: $background-color;
-        border: 1px solid $grey-color-light;
-        border-radius: 5px;
-        text-align: right;
+//    @include media-query($on-palm) {
+//        position: absolute;
+//        top: 9px;
+//        right: 30px;
+//        background-color: $background-color;
+//        border: 1px solid $grey-color-light;
+//        border-radius: 5px;
+//        text-align: right;
 
 /**     .menu-icon {
             display: block;
@@ -70,21 +70,21 @@
         }
 */
 
-        .trigger {
-            clear: both;
-            display: none;
-        }
-
-        &:hover .trigger {
-            display: block;
-            padding-bottom: 5px;
-        }
-
-        .page-link {
-            display: block;
-            padding: 5px 10px;
-        }
-    }
+//        .trigger {
+//            clear: both;
+//            display: none;
+//        }
+//
+//        &:hover .trigger {
+//            display: block;
+//            padding-bottom: 5px;
+//        }
+//
+//        .page-link {
+//            display: block;
+//            padding: 5px 10px;
+//        }
+//    }
 }
 
 
