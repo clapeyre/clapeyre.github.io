@@ -9,7 +9,7 @@ Some of the talks I gave that are available online.
 2018
 ---
 
-**January 8** at *IMFT*: FTF in Industrial configurations [pdf](https://www.dropbox.com/s/r4y0nsofjb25ux0/avbp2global.pdf?dl=1) [keynote](https://www.dropbox.com/s/9z5zxivyh5ad31l/avbp2global.key?dl=1)
+**January 8** at *IMFT*: FTF in Industrial configurations [pdf](https://www.dropbox.com/s/r4y0nsofjb25ux0/avbp2global.pdf?dl=1)
 
 2017
 ---
