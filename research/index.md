@@ -3,8 +3,7 @@ layout: page
 title: Research
 ---
 
-Publications
----
+## Publications
 
 - Thiesset, F., Halter, F., Bariki, C.e, Lapeyre, C.,
   Chauveau, C., Gokalp, I., Selle, L., Poinsot, T. Isolating strain and
@@ -22,8 +21,8 @@ Publications
   [doi:10.1007/s10494-016-9745-2](http://link.springer.com/article/10.1007/s10494-016-9745-2)
 
 
-Conferences
----
+## Conferences
+
 - Lapeyre, C.J., Mazur, M., Scouflaire, P., Richecoeur, F, Ducruix, S., Poinsot,
   T. *Acoustically induced vortex core flashback in a staged swirl-stabilized
   combustor*. 15th International Conference on Numerical Combustion, April
@@ -31,3 +30,15 @@ Conferences
 - Lapeyre, C.J., Poinsot, T. *Importance of thermoacoustics in LES of combustion
   noise in realistic confined configurations*. MAMBO Workshop, October 18th
   2013, ONERA Châtillon France. [Presentation]({{ site.url }}/data/MAMBO_C.LAPEYRE_18.10.2013.pdf)
+
+
+## Students
+
+# 2018
+
+- Cazard, Nicolas. Feb - Jul (Masters internship), *Deep learning applied
+  to turbulent combustion modelling*
+- Ronzie, Maxence. Feb - Jul (Masters internship), *HPC aspects of Deep
+  Learning. Application to satellite data*
+- Besombes, Camille. Apr - Sep (Masters internship), *Generative neural
+  networks applied to reservoir modeling*
