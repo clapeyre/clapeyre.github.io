@@ -42,3 +42,5 @@ title: Research
   Learning. Application to satellite data*
 - Besombes, Camille. Apr - Sep (Masters internship), *Generative neural
   networks applied to reservoir modeling*
+- Xing, Victor. June - Nov (Masters internship), *Neural networks for
+  compression of turbulent fields*
