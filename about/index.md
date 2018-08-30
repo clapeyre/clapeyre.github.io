@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-<img src="/data/portrait.jpg" width="300" align="right" style="border:30px solid transparent">
+<img src="/data/portrait.jpg" title="Picture by www.ftapia.com" width="300"
+align="right" style="border:30px solid transparent">
 
 Hi, I'm Corentin Lapeyre. Born in Toulouse France, brought up between the
 south of France and Berkeley, CA, I feel at home both in Europe and the
