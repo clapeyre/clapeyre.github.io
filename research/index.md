@@ -23,6 +23,10 @@ title: Research
 
 ## Conferences
 
+- Lapeyre, C.J., Misdariis, A., Cazard, N, Poinsot, T. *Replacing a sub-grid
+  closure model with a trained deep convolutional neural network*. HiFiLeD
+  Symposium, November 14-16th 2018, Brussels Belgium.
+  [Presentation](https://www.dropbox.com/s/2ujcekgn06pq442/C.J.Lapeyre.pdf?dl=1)
 - Lapeyre, C.J., Mazur, M., Scouflaire, P., Richecoeur, F, Ducruix, S., Poinsot,
   T. *Acoustically induced vortex core flashback in a staged swirl-stabilized
   combustor*. 15th International Conference on Numerical Combustion, April
