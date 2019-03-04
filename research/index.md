@@ -5,21 +5,25 @@ title: Research
 
 ## Publications
 
-- Thiesset, F., Halter, F., Bariki, C.e, Lapeyre, C.,
-  Chauveau, C., Gokalp, I., Selle, L., Poinsot, T. Isolating strain and
-  curvature effects in premixed flame/vortex interactions. *Journal of
-  Fluid Mechanics* (2017) [doi:10.1017/jfm.2017.641](https://doi.org/10.1017/jfm.2017.641)
+- Lapeyre, C.J., Misdariis, A., Cazard, N., Veynante, D. & Poinsot, T. (2019).
+  Training convolutional neural networks to estimate turbulent sub-grid scale reaction rates.
+  *Combustion and Flame*, 203, 255-264.
+  [doi:10.1016/j.combustflame.2019.02.019](https://doi.org/10.1016/j.combustflame.2019.02.019)
 
-- Huet, M., Vuillot, F., Bertier, N., Mazur, M., Kings, N., Tao, W.,
-  Scouflaire, P., Richecoeur, F., Ducruix, S., Lapeyre, C., Poinsot, T.
-  Recent improvements in combustion noise investigation: from combustion
-  chamber to nozzle flow. *Aerospace Lab* (June 2016)
+- Thiesset, F., Halter, F., Bariki, C.e, Lapeyre, C., Chauveau, C., Gokalp, I., Selle, L. & Poinsot, T. (2017).
+  Isolating strain and curvature effects in premixed flame/vortex interactions.
+  *Journal of Fluid Mechanics*, 831, 618-654.
+  [doi:10.1017/jfm.2017.641](https://doi.org/10.1017/jfm.2017.641)
+
+- Huet, M., Vuillot, F., Bertier, N., Mazur, M., Kings, N., Tao, W., Scouflaire, P., Richecoeur, F., Ducruix, S., Lapeyre, C. & Poinsot, T. (June 2016).
+  Recent improvements in combustion noise investigation: from combustion chamber to nozzle flow.
+  *Aerospace Lab*, (11), 10.
   [doi:10.12762/2016.AL11-10](http://www.aerospacelab-journal.org/sites/www.aerospacelab-journal.org/files/AL11-10.pdf)
 
-- Lapeyre, C.J., Mazur, M., Scouflaire, P. et al. Acoustically Induced Flashback
-  in a Staged Swirl-Stabilized Combustor *Flow Turbulence and Combustion* (2016).
+- Lapeyre, C. J., Mazur, M., Scouflaire, P., Richecoeur, F., Ducruix, S., & Poinsot, T. (2017).
+  Acoustically induced flashback in a staged swirl-stabilized combustor.
+  *Flow, Turbulence and Combustion*, 98(1), 265-282.
   [doi:10.1007/s10494-016-9745-2](http://link.springer.com/article/10.1007/s10494-016-9745-2)
-
 
 ## Conferences
 
@@ -36,9 +40,15 @@ title: Research
   2013, ONERA Châtillon France. [Presentation]({{ site.url }}/data/MAMBO_C.LAPEYRE_18.10.2013.pdf)
 
 
-## Students
+## Current Students
 
-# 2018
+- Besombes, Camille, Ph.D Student. *Generative neural networks applied to reservoir modeling*
+- Xing, Victor, Ph.D Student. *Neural networks for turbulent combustion*
+- Nony, Bastien, Mar - Jul (Masters internship). *Learning techniques for missing data reconstruction and prediction in hydraulics*
+
+## Past Students
+
+### 2018
 
 - Cazard, Nicolas. Feb - Jul (Masters internship), *Deep learning applied
   to turbulent combustion modelling*
