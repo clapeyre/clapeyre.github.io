@@ -9,17 +9,18 @@ title: Research
   Training convolutional neural networks to estimate turbulent sub-grid scale reaction rates.
   *Combustion and Flame*, 203, 255-264.
   [doi:10.1016/j.combustflame.2019.02.019](https://doi.org/10.1016/j.combustflame.2019.02.019)
-
+- Lapeyre, C.J., Misdariis, A., Cazard, N. & Poinsot, T (2018).
+  A-posteriori evaluation of a deep convolutional neural network approach to subgrid-scale flame surface estimation.
+  *Proc. CTR Summer Program*, 349-358.
+  [PDF](https://stanford.box.com/s/nbpbdp9s41go0a9mx2wwwni9umaofne0)
 - Thiesset, F., Halter, F., Bariki, C.e, Lapeyre, C., Chauveau, C., Gokalp, I., Selle, L. & Poinsot, T. (2017).
   Isolating strain and curvature effects in premixed flame/vortex interactions.
   *Journal of Fluid Mechanics*, 831, 618-654.
   [doi:10.1017/jfm.2017.641](https://doi.org/10.1017/jfm.2017.641)
-
 - Huet, M., Vuillot, F., Bertier, N., Mazur, M., Kings, N., Tao, W., Scouflaire, P., Richecoeur, F., Ducruix, S., Lapeyre, C. & Poinsot, T. (June 2016).
   Recent improvements in combustion noise investigation: from combustion chamber to nozzle flow.
   *Aerospace Lab*, (11), 10.
   [doi:10.12762/2016.AL11-10](http://www.aerospacelab-journal.org/sites/www.aerospacelab-journal.org/files/AL11-10.pdf)
-
 - Lapeyre, C. J., Mazur, M., Scouflaire, P., Richecoeur, F., Ducruix, S., & Poinsot, T. (2017).
   Acoustically induced flashback in a staged swirl-stabilized combustor.
   *Flow, Turbulence and Combustion*, 98(1), 265-282.
