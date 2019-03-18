@@ -46,6 +46,7 @@ title: Research
 - Besombes, Camille, Ph.D Student. *Generative neural networks applied to reservoir modeling*
 - Xing, Victor, Ph.D Student. *Neural networks for turbulent combustion*
 - Nony, Bastien, Mar - Jul (Masters internship). *Learning techniques for missing data reconstruction and prediction in hydraulics*
+- Patil, Aakash, Mar - Jul (Masters internship). *Deep learning for turbulence generation*
 
 ## Past Students
 
