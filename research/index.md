@@ -28,6 +28,13 @@ title: Research
 
 ## Conferences
 
+- Lapeyre, C. J., Cazard, N., Roy, P. T., Ricci, S., & Zaoui, F. (2019).
+  *Reconstruction of Hydraulic Data by Machine Learning*. SimHydro 2019, Nice,
+  France, June 12-14, arXiv:1903.01123.
+- Lapeyre, C.J., Misdariis, A., Cazard, N., Xing, V., Veynante, D. & Poinsot, T. (2019).
+  *A convolutional neural network-based efficiency function for sub-grid flame-turbulence
+  interaction in LES*. 16th International Conference on Numerical Combustion, May
+  6-8 2015, Avignon France.
 - Lapeyre, C.J., Misdariis, A., Cazard, N, Poinsot, T. *Replacing a sub-grid
   closure model with a trained deep convolutional neural network*. HiFiLeD
   Symposium, November 14-16th 2018, Brussels Belgium.
