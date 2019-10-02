@@ -4,7 +4,19 @@ title: Talks
 permalink: /talks/
 ---
 
-Some of the talks I gave that are available online.
+Some of the talks I gave are available online in pdf and sometimes recorded as videos.
+
+2019
+---
+
+- **October 1** at *IMFT*: [pdf](https://www.dropbox.com/s/fcfpdnc0ml6tc8o/IMFT.pdf?dl=1)
+- **September 12** at *Ter@tec*: [pdf](https://www.dropbox.com/s/u6dlqupzesbfj5m/CEA.pdf?dl=1)
+- **June 27** at *DL4ESS*: [pdf](https://www.dropbox.com/s/andeqn07q0xbl3m/06_27_DL4ESS_CLapeyre.pdf?dl=1], [video](https://www.youtube.com/watch?v=YYficpqc5_M)
+- **June 18** at *Météo-France*: [pdf](https://www.dropbox.com/s/g9ef56gw25owu3r/06_18_CIC_CLapeyre.pdf?dl=1)
+- **June 14** at *SimHydro*: [pdf](https://www.dropbox.com/s/2n8sh0rmrdlmzeh/SimHydro2019_CLapeyre.pdf?dl=1)
+- **June 13** at *CEMEF*: [pdf](https://www.dropbox.com/s/i63e2hl770dgnca/CEMEF.pdf?dl=1), [video](https://www.youtube.com/watch?v=p1tuX9RP0zM)
+- **February 7** at *Toulouse Inderdisciplinary group on Deep Learning (TIDLE)*: [pdf](https://www.dropbox.com/s/yfnz1j7zjjdt5ct/CERFACS%20-%20C.Lapeyre.pdf?dl=1)
+- **January 29** for the *SUCCESS Workshop*: [pdf](https://www.dropbox.com/s/ceaz1cm9xwj536k/SUCCESS.key?dl=1)
 
 2018
 ---
