@@ -11,7 +11,7 @@ Some of the talks I gave are available online in pdf and sometimes recorded as v
 
 - **October 1** at *IMFT*: [pdf](https://www.dropbox.com/s/fcfpdnc0ml6tc8o/IMFT.pdf?dl=1)
 - **September 12** at *Ter@tec*: [pdf](https://www.dropbox.com/s/u6dlqupzesbfj5m/CEA.pdf?dl=1)
-- **June 27** at *DL4ESS*: [pdf](https://www.dropbox.com/s/andeqn07q0xbl3m/06_27_DL4ESS_CLapeyre.pdf?dl=1], [video](https://www.youtube.com/watch?v=YYficpqc5_M)
+- **June 27** at *DL4ESS*: [pdf](https://www.dropbox.com/s/andeqn07q0xbl3m/06_27_DL4ESS_CLapeyre.pdf?dl=1), [video](https://www.youtube.com/watch?v=YYficpqc5_M)
 - **June 18** at *Météo-France*: [pdf](https://www.dropbox.com/s/g9ef56gw25owu3r/06_18_CIC_CLapeyre.pdf?dl=1)
 - **June 14** at *SimHydro*: [pdf](https://www.dropbox.com/s/2n8sh0rmrdlmzeh/SimHydro2019_CLapeyre.pdf?dl=1)
 - **June 13** at *CEMEF*: [pdf](https://www.dropbox.com/s/i63e2hl770dgnca/CEMEF.pdf?dl=1), [video](https://www.youtube.com/watch?v=p1tuX9RP0zM)
