@@ -50,12 +50,19 @@ title: Research
 
 ## Current Students
 
+- Drozda, Luciano, Ph.D Student. *Deep Learning for synthetic turbulence generation*
+- Gullaud, Elsa, Postdoctoral Fellow. *Neural networks inside a large scale fluid solver*
 - Besombes, Camille, Ph.D Student. *Generative neural networks applied to reservoir modeling*
 - Xing, Victor, Ph.D Student. *Neural networks for turbulent combustion*
-- Nony, Bastien, Mar - Jul (Masters internship). *Learning techniques for missing data reconstruction and prediction in hydraulics*
-- Patil, Aakash, Mar - Jul (Masters internship). *Deep learning for turbulence generation*
+- Cazard, Nicolas, Data Scientist. *Various projects*
 
 ## Past Students
+
+### 2019
+
+- Labarrère, Laure, Postdoctoral Fellow. *Neural networks inside a large scale fluid solver*
+- Nony, Bastien, Mar - Jul (Masters internship). *Learning techniques for missing data reconstruction and prediction in hydraulics*
+- Patil, Aakash, Mar - Jul (Masters internship). *Deep learning for turbulence generation*
 
 ### 2018
 
