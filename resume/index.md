@@ -3,6 +3,8 @@ layout: page
 title: Resume
 ---
 
+Get my resume as a [pdf](https://www.dropbox.com/s/r81is26cfq3ikz4/cv_lapeyre.pdf?dl=1).
+
 ## Positions
 
   - March 2018 - Present: Senior Scientist at
