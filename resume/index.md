@@ -3,7 +3,7 @@ layout: page
 title: Resume
 ---
 
-Get my resume as a [pdf](https://www.dropbox.com/s/r81is26cfq3ikz4/cv_lapeyre.pdf?dl=1).
+Get my resume as a [pdf](https://www.dropbox.com/s/0uhtc4qe6rgsr6g/CV_Corentin_Lapeyre.pdf?dl=1).
 
 ## Positions
 
