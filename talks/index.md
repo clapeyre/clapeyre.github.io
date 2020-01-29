@@ -6,6 +6,11 @@ permalink: /talks/
 
 Some of the talks I gave are available online in pdf and sometimes recorded as videos.
 
+2020
+---
+
+- **January 27** at *CORIA*: [pdf](https://www.dropbox.com/s/sjyocp19de1zzc3/IA_CORIA.pdf?dl=1)
+
 2019
 ---
 
