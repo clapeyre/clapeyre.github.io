@@ -35,21 +35,29 @@ title: Research
   *A convolutional neural network-based efficiency function for sub-grid flame-turbulence
   interaction in LES*. 16th International Conference on Numerical Combustion, May
   6-8 2015, Avignon France.
-- Lapeyre, C.J., Misdariis, A., Cazard, N, Poinsot, T. *Replacing a sub-grid
+- Lapeyre, C.J., Misdariis, A., Cazard, N, Poinsot, T. (2018). *Replacing a sub-grid
   closure model with a trained deep convolutional neural network*. HiFiLeD
   Symposium, November 14-16th 2018, Brussels Belgium.
   [Presentation](https://www.dropbox.com/s/2ujcekgn06pq442/C.J.Lapeyre.pdf?dl=1)
 - Lapeyre, C.J., Mazur, M., Scouflaire, P., Richecoeur, F, Ducruix, S., Poinsot,
-  T. *Acoustically induced vortex core flashback in a staged swirl-stabilized
+  T. (2015). *Acoustically induced vortex core flashback in a staged swirl-stabilized
   combustor*. 15th International Conference on Numerical Combustion, April
   20-22nd 2015, Avignon France. [Presentation]({{ site.url }}/data/ICNC2015-Lapeyre.pdf)
-- Lapeyre, C.J., Poinsot, T. *Importance of thermoacoustics in LES of combustion
+- Lapeyre, C.J., Poinsot, T. (2013). *Importance of thermoacoustics in LES of combustion
   noise in realistic confined configurations*. MAMBO Workshop, October 18th
   2013, ONERA Châtillon France. [Presentation]({{ site.url }}/data/MAMBO_C.LAPEYRE_18.10.2013.pdf)
 
 
+## Technical Reports
+
+- Lapeyre, C.J., Selle, L., Bedat, B., Poinsot, T. (2016). [*ANR IDYLLE Deliverables Report*](https://www.dropbox.com/s/1kk0eycklxylnb4/idylle.pdf?dl=1)
+
 ## Current Students
 
+- Mercier, Valentin, Masters internship. *Physical constraints for deep learning of time-evolution of Barré-Saint Venant solutions*
+- Lazzara, Michele, Ph.D Student. *Predictive maintenance using physics-informed aircraft sensor time-series*
+- Chayti, El Mahdi, Ph.D Student. *Fusion de données pour l'estimation de modèles aérodynamiques en utilisant une approche bayésienne et de l'apprentissage machine*
+- Yewgat, Abderrahemane, Ph.D Student. *Physics-informed deep learning for fast reservoir forecasting*
 - Drozda, Luciano, Ph.D Student. *Deep Learning for synthetic turbulence generation*
 - Gullaud, Elsa, Postdoctoral Fellow. *Neural networks inside a large scale fluid solver*
 - Besombes, Camille, Ph.D Student. *Generative neural networks applied to reservoir modeling*
@@ -60,9 +68,10 @@ title: Research
 
 ### 2019
 
+- Cellier, Antony, Masters internship. *Detection and Identification of Instability and Blow-off/Flashback Precursors in Aeronautical Engines using Deep Learning techniques*
 - Labarrère, Laure, Postdoctoral Fellow. *Neural networks inside a large scale fluid solver*
-- Nony, Bastien, Mar - Jul (Masters internship). *Learning techniques for missing data reconstruction and prediction in hydraulics*
-- Patil, Aakash, Mar - Jul (Masters internship). *Deep learning for turbulence generation*
+- Nony, Bastien, Masters internship. *Learning techniques for missing data reconstruction and prediction in hydraulics*
+- Patil, Aakash, Masters internship. *Deep learning for turbulence generation*
 
 ### 2018
 
