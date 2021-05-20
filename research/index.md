@@ -3,8 +3,21 @@ layout: page
 title: Research
 ---
 
+## Preprints
+
+- Besombes, C., Pannekoucke, O., Lapeyre, C., Sanderson, B., & Thual, O.
+  (2021). Producing realistic climate data with GANs. Submitted to *Nonlinear Processes in
+  Geophysics*.
+- Cellier, A., Lapeyre, C.J., Öztarlik, G., Poinsot, T., Schuller, T., Selle,
+  L. (2021). Detection of Precursors of Combustion Instability using
+  Convolutional Recurrent Neural Networks. Submitted to *Combustion and Flame*
+
 ## Publications
 
+- Lapeyre, C. J., Cazard, N., Roy, P. T., Ricci, S., & Zaoui, F. (2020).
+  Reconstruction of Hydraulic Data by Machine Learning. In *Advances in
+  Hydroinformatics* (pp. 701-715). Springer, Singapore.
+  [doi:10.1007/978-981-15-5436-0_54](https://doi.org/10.1007/978-981-15-5436-0_54)
 - Lapeyre, C.J., Misdariis, A., Cazard, N., Veynante, D. & Poinsot, T. (2019).
   Training convolutional neural networks to estimate turbulent sub-grid scale reaction rates.
   *Combustion and Flame*, 203, 255-264.
@@ -28,13 +41,17 @@ title: Research
 
 ## Conferences
 
+- Yewgat, A., Busby, D., Chevalier, M., Lapeyre, C., & Teste, O. (2020,
+  September). Deep-CRM: A New Deep Learning Approach For Capacitance Resistive
+  Models. In *ECMOR XVII* (Vol. 2020, No. 1, pp. 1-19). European Association of
+  Geoscientists & Engineers.
 - Lapeyre, C. J., Cazard, N., Roy, P. T., Ricci, S., & Zaoui, F. (2019).
   *Reconstruction of Hydraulic Data by Machine Learning*. SimHydro 2019, Nice,
-  France, June 12-14, arXiv:1903.01123.
+  France, June 12-14.
 - Lapeyre, C.J., Misdariis, A., Cazard, N., Xing, V., Veynante, D. & Poinsot, T. (2019).
   *A convolutional neural network-based efficiency function for sub-grid flame-turbulence
-  interaction in LES*. 16th International Conference on Numerical Combustion, May
-  6-8 2015, Avignon France.
+  interaction in LES*. 17th International Conference on Numerical Combustion, May
+  6-8 2019, Aachen Germany.
 - Lapeyre, C.J., Misdariis, A., Cazard, N, Poinsot, T. (2018). *Replacing a sub-grid
   closure model with a trained deep convolutional neural network*. HiFiLeD
   Symposium, November 14-16th 2018, Brussels Belgium.
@@ -54,20 +71,27 @@ title: Research
 
 ## Current Students
 
+- Elmontassir, Rachid, Masters internship. *Hybrid data-driven phsyics informed techniques for nebulosity nowcasting*
+- Serhani, Anass, Postdoctoral Fellow. *Hybrid traditional and data-driven approaches in a high-performance CFD solver*
+- Coulon, Victor, Research engineer. *Data-driven turbulent combustion models for hydrogen-based aircraft engines*
+- Dupuy, Dorian, Postdoctoral Fellow. *Machine-learning for turbulence modeling: exploiting large datasets to develop new RANS and LAS wall law models*
 - Mercier, Valentin, Masters internship. *Physical constraints for deep learning of time-evolution of Barré-Saint Venant solutions*
 - Lazzara, Michele, Ph.D Student. *Predictive maintenance using physics-informed aircraft sensor time-series*
-- Chayti, El Mahdi, Ph.D Student. *Fusion de données pour l'estimation de modèles aérodynamiques en utilisant une approche bayésienne et de l'apprentissage machine*
 - Yewgat, Abderrahemane, Ph.D Student. *Physics-informed deep learning for fast reservoir forecasting*
 - Drozda, Luciano, Ph.D Student. *Deep Learning for synthetic turbulence generation*
-- Gullaud, Elsa, Postdoctoral Fellow. *Neural networks inside a large scale fluid solver*
+- Gullaud, Elsa, Postdoctoral Fellow. *Detecting endagered predatory fauna to protect herds by targeted scaring techniques*
 - Besombes, Camille, Ph.D Student. *Generative neural networks applied to reservoir modeling*
 - Xing, Victor, Ph.D Student. *Neural networks for turbulent combustion*
-- Cazard, Nicolas, Data Scientist. *Various projects*
 
 ## Past Students
 
+### 2020
+
+- Chayti, El Mahdi, Ph.D Student. *Fusion de données pour l'estimation de modèles aérodynamiques en utilisant une approche bayésienne et de l'apprentissage machine*
+
 ### 2019
 
+- Cazard, Nicolas, Data Scientist. *Various projects*
 - Cellier, Antony, Masters internship. *Detection and Identification of Instability and Blow-off/Flashback Precursors in Aeronautical Engines using Deep Learning techniques*
 - Labarrère, Laure, Postdoctoral Fellow. *Neural networks inside a large scale fluid solver*
 - Nony, Bastien, Masters internship. *Learning techniques for missing data reconstruction and prediction in hydraulics*
