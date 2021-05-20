@@ -69,6 +69,8 @@ title: Research
 - Lapeyre, C.J., Selle, L., Bedat, B., Poinsot, T. (2016). [*ANR IDYLLE Deliverables Report*](https://www.dropbox.com/s/1kk0eycklxylnb4/idylle.pdf?dl=1)
 
 
+---
+
 # Students
 
 Below is a summary of the students I have advised closely in the past and currently.

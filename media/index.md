@@ -3,6 +3,23 @@ layout: page
 title: Media
 ---
 
+# Open-Source Projects
+
+I sometimes solve some daily issues with tools that I then post online, mostly
+in Python. These are small tools that scientists might find useful day to day.
+
+  - [nob](https://pypi.org/project/nob/), the Nested OBject manipulator. Makes
+    your life easier if you're working with nested dicts / lists (or deep json/yaml files)
+    a lot.
+  - [h5nav](https://pypi.org/project/h5nav/), a shell-like interactive navigator to
+    poke around an hdf5 file.
+  - [unstructured-adjacency](https://github.com/clapeyre/unstructured-adjacency), a tiny
+    helper to gather / scatter data in an unstructured mesh efficiently with scipy.
+
+I also contribute as a Python advisor to many open-source projects at CERFACS,
+visible on our [gitlab](https://gitlab.com/cerfacs) page.
+
+---
 
 # Talks
 
