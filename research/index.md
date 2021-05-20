@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 
-## Preprints
+### Preprints
 
 - Besombes, C., Pannekoucke, O., Lapeyre, C., Sanderson, B., & Thual, O.
   (2021). Producing realistic climate data with GANs. Submitted to *Nonlinear Processes in
@@ -12,7 +12,7 @@ title: Research
   L. (2021). Detection of Precursors of Combustion Instability using
   Convolutional Recurrent Neural Networks. Submitted to *Combustion and Flame*
 
-## Publications
+### Publications
 
 - Lapeyre, C. J., Cazard, N., Roy, P. T., Ricci, S., & Zaoui, F. (2020).
   Reconstruction of Hydraulic Data by Machine Learning. In *Advances in
@@ -39,7 +39,7 @@ title: Research
   *Flow, Turbulence and Combustion*, 98(1), 265-282.
   [doi:10.1007/s10494-016-9745-2](http://link.springer.com/article/10.1007/s10494-016-9745-2)
 
-## Conferences
+### Conferences
 
 - Yewgat, A., Busby, D., Chevalier, M., Lapeyre, C., & Teste, O. (2020,
   September). Deep-CRM: A New Deep Learning Approach For Capacitance Resistive
@@ -64,10 +64,14 @@ title: Research
   noise in realistic confined configurations*. MAMBO Workshop, October 18th
   2013, ONERA Châtillon France. [Presentation]({{ site.url }}/data/MAMBO_C.LAPEYRE_18.10.2013.pdf)
 
-
-## Technical Reports
+### Technical Reports
 
 - Lapeyre, C.J., Selle, L., Bedat, B., Poinsot, T. (2016). [*ANR IDYLLE Deliverables Report*](https://www.dropbox.com/s/1kk0eycklxylnb4/idylle.pdf?dl=1)
+
+
+# Students
+
+Below is a summary of the students I have advised closely in the past and currently.
 
 ## Current Students
 
@@ -99,11 +103,7 @@ title: Research
 
 ### 2018
 
-- Cazard, Nicolas. Feb - Jul (Masters internship), *Deep learning applied
-  to turbulent combustion modelling*
-- Ronzie, Maxence. Feb - Jul (Masters internship), *HPC aspects of Deep
-  Learning. Application to satellite data*
-- Besombes, Camille. Apr - Sep (Masters internship), *Generative neural
-  networks applied to reservoir modeling*
-- Xing, Victor. June - Nov (Masters internship), *Neural networks for
-  compression of turbulent fields*
+- Cazard, Nicolas. Feb - Jul (Masters internship), *Deep learning applied to turbulent combustion modelling*
+- Ronzie, Maxence. Feb - Jul (Masters internship), *HPC aspects of Deep Learning. Application to satellite data*
+- Besombes, Camille. Apr - Sep (Masters internship), *Generative neural networks applied to reservoir modeling*
+- Xing, Victor. June - Nov (Masters internship), *Neural networks for compression of turbulent fields*
