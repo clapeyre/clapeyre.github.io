@@ -3,17 +3,18 @@ layout: page
 title: Research
 ---
 
-### Preprints
-
-- Besombes, C., Pannekoucke, O., Lapeyre, C., Sanderson, B., & Thual, O.
-  (2021). Producing realistic climate data with GANs. Submitted to *Nonlinear Processes in
-  Geophysics*.
-- Cellier, A., Lapeyre, C.J., Öztarlik, G., Poinsot, T., Schuller, T., Selle,
-  L. (2021). Detection of Precursors of Combustion Instability using
-  Convolutional Recurrent Neural Networks. Submitted to *Combustion and Flame*
-
 ### Publications
 
+- Besombes, C., Pannekoucke, O., Lapeyre, C., Sanderson, B. & Thual, O. (2021).
+  Producing realistic climate data with GANs. *Nonlinear Processes in Geophysics*, 28, 347–370.
+  [doi:10.5194/npg-28-347-2021](https://doi.org/10.5194/npg-28-347-2021)
+- Xing V., Lapeyre C., Jaravel T. & Poinsot T. (2021). Generalization Capability of
+  Convolutional Neural Networks for Progress Variable Variance and Reaction Rate Subgrid-Scale Modeling.
+  *Energies* 14(16):5096. [doi:10.3390/en14165096](https://doi.org/10.3390/en14165096)
+- A. Cellier, C.J. Lapeyre, G. Öztarlik, T. Poinsot, T. Schuller, & L. Selle (2021).
+  Detection of precursors of combustion instability using convolutional recurrent neural networks.
+  *Combustion and Flame*, Volume 233, 111558.
+  [doi:10.1016/j.combustflame.2021.111558](https://doi.org/10.1016/j.combustflame.2021.111558)
 - Lapeyre, C. J., Cazard, N., Roy, P. T., Ricci, S., & Zaoui, F. (2020).
   Reconstruction of Hydraulic Data by Machine Learning. In *Advances in
   Hydroinformatics* (pp. 701-715). Springer, Singapore.
@@ -41,6 +42,9 @@ title: Research
 
 ### Conferences
 
+- Drozda, L., Mohanamuraly, P., Realpe, Y., Lapeyre, C., Adler, A., Daviller, G., & Poinsot, T. (2021).
+  Data-driven Taylor-Galerkin finite-element scheme for convection problems.
+  *The Symbiosis of Deep Learning and Differential Equations - Neurips 2021 Workshop* 
 - Yewgat, A., Busby, D., Chevalier, M., Lapeyre, C., & Teste, O. (2020,
   September). Deep-CRM: A New Deep Learning Approach For Capacitance Resistive
   Models. In *ECMOR XVII* (Vol. 2020, No. 1, pp. 1-19). European Association of
@@ -73,7 +77,7 @@ title: Research
 
 # Students
 
-Below is a summary of the students I have advised closely in the past and currently.
+Below is a summary of the students I advise closely currently, and thos I advised in the past.
 
 ## Current Students
 
@@ -85,11 +89,14 @@ Below is a summary of the students I have advised closely in the past and curren
 - Lazzara, Michele, Ph.D Student. *Predictive maintenance using physics-informed aircraft sensor time-series*
 - Yewgat, Abderrahemane, Ph.D Student. *Physics-informed deep learning for fast reservoir forecasting*
 - Drozda, Luciano, Ph.D Student. *Deep Learning for synthetic turbulence generation*
-- Gullaud, Elsa, Postdoctoral Fellow. *Detecting endagered predatory fauna to protect herds by targeted scaring techniques*
 - Besombes, Camille, Ph.D Student. *Generative neural networks applied to reservoir modeling*
 - Xing, Victor, Ph.D Student. *Neural networks for turbulent combustion*
 
 ## Past Students
+
+### 2021
+
+- Gullaud, Elsa, Postdoctoral Fellow. *Detecting endagered predatory fauna to protect herds by targeted scaring techniques*
 
 ### 2020
 
