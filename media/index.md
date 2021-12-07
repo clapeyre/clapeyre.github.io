@@ -58,7 +58,7 @@ Some of the talks I gave are available online in pdf and sometimes recorded as v
   - 2015
       - **September 18** : Ph.D. Defense: Numerical study of flame stability,
         stabilization and noise in a swirl-stabilized combustor under choked
-        conditions.  [video](http://hypnos.cerfacs.fr/videos/?video=MEDIA150918095835455)
+        conditions.  [video](https://typhon.cerfacs.fr/videos/?video=MEDIA150918095835455)
       - **April 22** at *ICNC - Avignon*: Acoustically induced vortex core flashback
         in a staged swirl-stabilized combustor [pdf]({{ site.url }}/data/ICNC2015-Lapeyre.pdf)
 
