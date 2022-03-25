@@ -77,30 +77,33 @@ title: Research
 
 # Students
 
-Below is a summary of the students I advise closely currently, and thos I advised in the past.
+Below is a summary of the students I currently advise closely, and those I advised in the past.
 
 ## Current Students
 
-- Elmontassir, Rachid, Masters internship. *Hybrid data-driven phsyics informed techniques for nebulosity nowcasting*
+- Cheng, Lionel, Postdoctoral Fellow. *High-order unstructured numerical schemes guided by graph networks*
+- Mercier, Valentin, PhD Student. *Physical constraints for deep learning of time-evolution of Barré-Saint Venant solutions*
+- El Montassir, Rachid, Masters internship. *Hybrid data-driven phsyics informed techniques for nebulosity nowcasting*
+- Alas, Rémi, PhD Student. *Data-driven wall models for underresolved features in atmospheric simulations*
 - Serhani, Anass, Postdoctoral Fellow. *Hybrid traditional and data-driven approaches in a high-performance CFD solver*
-- Coulon, Victor, Research engineer. *Data-driven turbulent combustion models for hydrogen-based aircraft engines*
+- Coulon, Victor, PhD Student. *Data-driven turbulent combustion models for hydrogen-based aircraft engines*
 - Dupuy, Dorian, Postdoctoral Fellow. *Machine-learning for turbulence modeling: exploiting large datasets to develop new RANS and LAS wall law models*
-- Mercier, Valentin, Masters internship. *Physical constraints for deep learning of time-evolution of Barré-Saint Venant solutions*
-- Lazzara, Michele, Ph.D Student. *Predictive maintenance using physics-informed aircraft sensor time-series*
+- Defontaine, Théo, PhD Student. *Heterogeneous data aggregation for flood forecasting*
+- Lazzara, Michele, PhD Student. *Predictive maintenance using physics-informed aircraft sensor time-series*
 - Yewgat, Abderrahemane, Ph.D Student. *Physics-informed deep learning for fast reservoir forecasting*
-- Drozda, Luciano, Ph.D Student. *Deep Learning for synthetic turbulence generation*
-- Besombes, Camille, Ph.D Student. *Generative neural networks applied to reservoir modeling*
-- Xing, Victor, Ph.D Student. *Neural networks for turbulent combustion*
+- Drozda, Luciano, PhD Student. *Locally adaptative unstructured numerical schemes for high precision and robustness to mesh irregularities*
+- Xing, Victor, PhD Student. *Turbulent combustion modelling using context-aware CNNs*
 
 ## Past Students
 
 ### 2021
 
+- Besombes, Camille, PhD Student (defended 2021). [*Parameterization using Generative Adversarial Networks for Control Space Reduction in Data Assimilation.*](https://www.theses.fr/s218328)
 - Gullaud, Elsa, Postdoctoral Fellow. *Detecting endagered predatory fauna to protect herds by targeted scaring techniques*
 
 ### 2020
 
-- Chayti, El Mahdi, Ph.D Student. *Fusion de données pour l'estimation de modèles aérodynamiques en utilisant une approche bayésienne et de l'apprentissage machine*
+- Chayti, El Mahdi, PhD Student. *Fusion de données pour l'estimation de modèles aérodynamiques en utilisant une approche bayésienne et de l'apprentissage machine*
 
 ### 2019
 
