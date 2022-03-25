@@ -83,7 +83,7 @@ Below is a summary of the students I currently advise closely, and those I advis
 
 - Cheng, Lionel, Postdoctoral Fellow. *High-order unstructured numerical schemes guided by graph networks*
 - Mercier, Valentin, PhD Student. *Physical constraints for deep learning of time-evolution of Barré-Saint Venant solutions*
-- El Montassir, Rachid, Masters internship. *Hybrid data-driven phsyics informed techniques for nebulosity nowcasting*
+- El Montassir, Rachid, PhD Student. *Hybrid data-driven phsyics informed techniques for nebulosity nowcasting*
 - Alas, Rémi, PhD Student. *Data-driven wall models for underresolved features in atmospheric simulations*
 - Serhani, Anass, Postdoctoral Fellow. *Hybrid traditional and data-driven approaches in a high-performance CFD solver*
 - Coulon, Victor, PhD Student. *Data-driven turbulent combustion models for hydrogen-based aircraft engines*
