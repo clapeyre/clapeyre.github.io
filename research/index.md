@@ -83,13 +83,13 @@ Below is a summary of the students I currently advise closely, and those I advis
 
 - Cheng, Lionel, Postdoctoral Fellow. *High-order unstructured numerical schemes guided by graph networks*
 - Mercier, Valentin, PhD Student. *Physical constraints for deep learning of time-evolution of Barré-Saint Venant solutions*
-- El Montassir, Rachid, PhD Student. *Hybrid data-driven phsyics informed techniques for nebulosity nowcasting*
+- El Montassir, Rachid, PhD Student. *Hybrid data-driven and physics-informed techniques for nebulosity nowcasting*
 - Alas, Rémi, PhD Student. *Data-driven wall models for underresolved features in atmospheric simulations*
-- Serhani, Anass, Postdoctoral Fellow. *Hybrid traditional and data-driven approaches in a high-performance CFD solver*
+- Serhani, Anass, Postdoctoral Fellow. *Introducing deep learning inside a high-performance massively parallel turbulent combustion solver - at scale*
 - Coulon, Victor, PhD Student. *Data-driven turbulent combustion models for hydrogen-based aircraft engines*
-- Dupuy, Dorian, Postdoctoral Fellow. *Machine-learning for turbulence modeling: exploiting large datasets to develop new RANS and LAS wall law models*
+- Dupuy, Dorian, Postdoctoral Fellow. *Graph neural networks for turbulence wall models in LES*
 - Defontaine, Théo, PhD Student. *Heterogeneous data aggregation for flood forecasting*
-- Lazzara, Michele, PhD Student. *Predictive maintenance using physics-informed aircraft sensor time-series*
+- Lazzara, Michele, PhD Student. *Surrogate aircraft simulators using physics-informed sensor time-series*
 - Yewgat, Abderrahemane, Ph.D Student. *Physics-informed deep learning for fast reservoir forecasting*
 - Drozda, Luciano, PhD Student. *Locally adaptative unstructured numerical schemes for high precision and robustness to mesh irregularities*
 - Xing, Victor, PhD Student. *Turbulent combustion modelling using context-aware CNNs*
