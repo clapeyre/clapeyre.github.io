@@ -66,7 +66,7 @@ This would only require 8 GPIOs: 4 for rows, 4 for columns. It would however sti
 
 But then, I ran across some neat cheap boards that could make my life a lot easier: Adafruit's [AW9523](https://thepihut.com/products/adafruit-aw9523-gpio-expander-and-led-driver-breakout), and Waveshare's [MCP23017](https://thepihut.com/products/mcp23017-io-expansion-board) IO expansion board. I got both, for good measure... but in the end, I went with Waveshare's version because I couldn't get find simple micropython drivers for Adafruit's ones (see the [next post]({% post_url 2022-01-11-picoarcade-software %}) for details).
 
-Finally, there is another set of buttons for the top control panel. For these, by box-builder had some standard switches lying around. Notice that I used a Wago connector for the commons (unfortunately in red wires here, I didn't have black when I did them).
+Finally, there is another set of buttons for the top control panel. For these, my box-builder had some standard switches lying around. Notice that I used a Wago connector for the commons (unfortunately in red wires here, I didn't have black when I did them).
 
 ![Button Close Up](/data/PicoArcade/ControlPanel.jpg)
 
@@ -93,16 +93,16 @@ This shows several things:
 
   - The VBUS pin (n°40) is actually directly connected to the USB 5V input.
   - The VSYS (n°39) pin should also have a tension of 5V, as it is connected through a simple diode to VBUS.
-  - However, and very importantly, **no current can flow from VBUS to the USB**, thanks to the diode. This is **not** true of VBUS, which is directly connected to the USB power.
+  - However, and very importantly, **no current can flow from VSYS to the USB**, thanks to the diode. This is **not** true of VBUS, which is directly connected to the USB power.
   - All of this does indeed feed into a [voltage regulator](https://fr.farnell.com/richtek/rt6150b-33gqw/convert-dc-dc-buck-boost-1mhz/dp/2729756) that's in charge of keeping the Pico voltage at 3.3 V.
   - The 3V3_EN pin (n° 37) is pulled high to VSYS via a 100K resistor. Its purpose is to be shorted in order to depower the Pico, according to the [datasheet](https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf). Not needed in our case.
   - Pin 3V3 (n°36) is the regulated voltage output used by the Pico to run, and to which we can also hook up external systems. The total load on this pin should not exceed 300 mA, according to the datasheet.
 
-So, with all that in place, I realised that to connect 2 power sources, I might be putting my computer in danger if I were to connect it to the USB port, and simultaneously power the VBUS port with another battery. And so I decided to connect the power bank to the VSYS pin.
+So, with all that in place, I realized that to connect 2 power sources, I might be putting my computer in danger if I were to connect it to the USB port, and simultaneously power the VBUS port with another battery. And so I decided to connect the power bank to the VSYS pin.
 
 ## Conclusion
 
-Pfew! That was a lot! I skipped a lot of the small things I learned along the way in the assembly process. I was *e.g.* very happy when I figured out that I could easily assemble Dupont connectors myself, after buying a nice little [kit](https://fr.aliexpress.com/item/4000158577472.html?gatewayAdapt=glo2fra&spm=a2g0o.order_list.0.0.21ef5e5brvIxE0) like this one:
+I skipped a lot of the small things I learned along the way in the assembly process. I was *e.g.* very happy when I figured out that I could easily assemble Dupont connectors myself, after buying a nice little [kit](https://fr.aliexpress.com/item/4000158577472.html?gatewayAdapt=glo2fra&spm=a2g0o.order_list.0.0.21ef5e5brvIxE0) like this one:
 
 <center>
   <img src="/data/PicoArcade/Dupont_kit.jpg" title="Dupont connector kit" height="200" style="border:10px solid transparent">
