@@ -49,7 +49,7 @@ practice to other fields of physics.
 
 # Resume
 
-Get my resume as a [pdf](https://www.dropbox.com/s/md1nr1qsfrd9ys5/Resume_Corentin_Lapeyre.pdf?dl=1).
+Get my resume as a [pdf](https://www.dropbox.com/s/8iql0kkistvc2jb/Resume_Corentin_Lapeyre.pdf?dl=1).
 
 ## Positions
 
