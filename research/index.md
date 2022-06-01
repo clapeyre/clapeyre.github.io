@@ -5,6 +5,13 @@ title: Research
 
 ### Publications
 
+- Lazzara, M., Chevalier, M., Colombo, M., Garay Garcia, J., Lapeyre, C., Teste, O. (2022).
+  Surrogate modelling for an aircraft dynamic landing loads simulation using an
+  LSTM AutoEncoder-based dimensionality reduction approach, *Aerospace Science and Technology*, 126, 107629,
+  [doi:10.1016/j.ast.2022.107629](https://doi.org/10.1016/j.ast.2022.107629).
+- Yewgat, A., Busby, D., Chevalier, M. *et al.* (2022).
+  Physics-constrained deep learning forecasting: an application with capacitance resistive model.
+  *Comput Geosci*. [doi:10.1007/s10596-022-10146-6](https://doi.org/10.1007/s10596-022-10146-6)
 - Besombes, C., Pannekoucke, O., Lapeyre, C., Sanderson, B. & Thual, O. (2021).
   Producing realistic climate data with GANs. *Nonlinear Processes in Geophysics*, 28, 347–370.
   [doi:10.5194/npg-28-347-2021](https://doi.org/10.5194/npg-28-347-2021)
@@ -31,7 +38,8 @@ title: Research
   Isolating strain and curvature effects in premixed flame/vortex interactions.
   *Journal of Fluid Mechanics*, 831, 618-654.
   [doi:10.1017/jfm.2017.641](https://doi.org/10.1017/jfm.2017.641)
-- Huet, M., Vuillot, F., Bertier, N., Mazur, M., Kings, N., Tao, W., Scouflaire, P., Richecoeur, F., Ducruix, S., Lapeyre, C. & Poinsot, T. (June 2016).
+- Huet, M., Vuillot, F., Bertier, N., Mazur, M., Kings, N., Tao, W., Scouflaire, P., Richecoeur, F.,
+  Ducruix, S., Lapeyre, C. & Poinsot, T. (June 2016).
   Recent improvements in combustion noise investigation: from combustion chamber to nozzle flow.
   *Aerospace Lab*, (11), 10.
   [doi:10.12762/2016.AL11-10](http://www.aerospacelab-journal.org/sites/www.aerospacelab-journal.org/files/AL11-10.pdf)
@@ -42,6 +50,12 @@ title: Research
 
 ### Conferences
 
+- Serhani, A., Xing, V., Dupuy, D., Lapeyre, C., Staffelbach, G. (2022).
+  High-performance hybrid coupling of a CFD solver to deep neural networks.
+  33rd Parallel CFD International Conference, May 25-27, Alba, Italy.
+- ElMontassir, R., Lapeyre, C., Pannekoucke, O. (2022).
+  Hybrid Physics-AI Approach for Cloud Cover Nowcasting.
+  ECMWF Machine Learning Workshop.
 - Drozda, L., Mohanamuraly, P., Realpe, Y., Lapeyre, C., Adler, A., Daviller, G., & Poinsot, T. (2021).
   Data-driven Taylor-Galerkin finite-element scheme for convection problems.
   *The Symbiosis of Deep Learning and Differential Equations - Neurips 2021 Workshop* 
