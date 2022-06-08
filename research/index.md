@@ -51,36 +51,40 @@ title: Research
 ### Conferences
 
 - Serhani, A., Xing, V., Dupuy, D., Lapeyre, C., Staffelbach, G. (2022).
-  High-performance hybrid coupling of a CFD solver to deep neural networks.
-  33rd Parallel CFD International Conference, May 25-27, Alba, Italy.
+  *High-performance hybrid coupling of a CFD solver to deep neural networks*.
+  *33rd Parallel CFD International Conference, May 25-27, Alba, Italy*.
 - ElMontassir, R., Lapeyre, C., Pannekoucke, O. (2022).
   Hybrid Physics-AI Approach for Cloud Cover Nowcasting.
-  ECMWF Machine Learning Workshop.
+  *ECMWF Machine Learning Workshop*.
 - Drozda, L., Mohanamuraly, P., Realpe, Y., Lapeyre, C., Adler, A., Daviller, G., & Poinsot, T. (2021).
   Data-driven Taylor-Galerkin finite-element scheme for convection problems.
-  *The Symbiosis of Deep Learning and Differential Equations - Neurips 2021 Workshop* 
+  *The Symbiosis of Deep Learning and Differential Equations - Neurips 2021 Workshop*
+- Badhe, Abhijeet, Laurent, Charlelie, Lapeyre, Corentin, & Nicoud, Franck. (2021, September 10).
+  Low-Order Thermoacoustic Analysis of Real Engines.
+  *Symposium on Thermoacoustics in Combustion: Industry meets Academia (SoTiC 2021), Munich, Germany*.
+  [doi:10.5281/zenodo.6394819](https://doi.org/10.5281/zenodo.6394819)
 - Yewgat, A., Busby, D., Chevalier, M., Lapeyre, C., & Teste, O. (2020,
   September). Deep-CRM: A New Deep Learning Approach For Capacitance Resistive
-  Models. In *ECMOR XVII* (Vol. 2020, No. 1, pp. 1-19). European Association of
+  Models. *ECMOR XVII* (Vol. 2020, No. 1, pp. 1-19). European Association of
   Geoscientists & Engineers.
 - Lapeyre, C. J., Cazard, N., Roy, P. T., Ricci, S., & Zaoui, F. (2019).
-  *Reconstruction of Hydraulic Data by Machine Learning*. SimHydro 2019, Nice,
-  France, June 12-14.
+  Reconstruction of Hydraulic Data by Machine Learning. *SimHydro 2019, Nice,
+  France, June 12-14*.
 - Lapeyre, C.J., Misdariis, A., Cazard, N., Xing, V., Veynante, D. & Poinsot, T. (2019).
-  *A convolutional neural network-based efficiency function for sub-grid flame-turbulence
-  interaction in LES*. 17th International Conference on Numerical Combustion, May
-  6-8 2019, Aachen Germany.
-- Lapeyre, C.J., Misdariis, A., Cazard, N, Poinsot, T. (2018). *Replacing a sub-grid
-  closure model with a trained deep convolutional neural network*. HiFiLeD
-  Symposium, November 14-16th 2018, Brussels Belgium.
+  A convolutional neural network-based efficiency function for sub-grid flame-turbulence
+  interaction in LES. *17th International Conference on Numerical Combustion, May
+  6-8 2019, Aachen Germany*.
+- Lapeyre, C.J., Misdariis, A., Cazard, N, Poinsot, T. (2018). Replacing a sub-grid
+  closure model with a trained deep convolutional neural network. *HiFiLeD
+  Symposium, November 14-16th 2018, Brussels Belgium*.
   [Presentation](https://www.dropbox.com/s/2ujcekgn06pq442/C.J.Lapeyre.pdf?dl=1)
 - Lapeyre, C.J., Mazur, M., Scouflaire, P., Richecoeur, F, Ducruix, S., Poinsot,
-  T. (2015). *Acoustically induced vortex core flashback in a staged swirl-stabilized
-  combustor*. 15th International Conference on Numerical Combustion, April
-  20-22nd 2015, Avignon France. [Presentation]({{ site.url }}/data/ICNC2015-Lapeyre.pdf)
-- Lapeyre, C.J., Poinsot, T. (2013). *Importance of thermoacoustics in LES of combustion
-  noise in realistic confined configurations*. MAMBO Workshop, October 18th
-  2013, ONERA Châtillon France. [Presentation]({{ site.url }}/data/MAMBO_C.LAPEYRE_18.10.2013.pdf)
+  T. (2015). Acoustically induced vortex core flashback in a staged swirl-stabilized
+  combustor. *15th International Conference on Numerical Combustion, April
+  20-22nd 2015, Avignon France*. [Presentation]({{ site.url }}/data/ICNC2015-Lapeyre.pdf)
+- Lapeyre, C.J., Poinsot, T. (2013). Importance of thermoacoustics in LES of combustion
+  noise in realistic confined configurations. *MAMBO Workshop, October 18th
+  2013, ONERA Châtillon France.* [Presentation]({{ site.url }}/data/MAMBO_C.LAPEYRE_18.10.2013.pdf)
 
 ### Technical Reports
 
