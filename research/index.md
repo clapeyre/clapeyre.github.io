@@ -63,10 +63,12 @@ title: Research
   Low-Order Thermoacoustic Analysis of Real Engines.
   *Symposium on Thermoacoustics in Combustion: Industry meets Academia (SoTiC 2021), Munich, Germany*.
   [doi:10.5281/zenodo.6394819](https://doi.org/10.5281/zenodo.6394819)
-- Yewgat, A., Busby, D., Chevalier, M., Lapeyre, C., & Teste, O. (2020,
-  September). Deep-CRM: A New Deep Learning Approach For Capacitance Resistive
-  Models. *ECMOR XVII* (Vol. 2020, No. 1, pp. 1-19). European Association of
-  Geoscientists & Engineers.
+- Yewgat, A., Busby, D., Chevalier, M., Lapeyre, C., & Teste, O. (2020, September).
+  Deep-CRM: A New Deep Learning Approach For Capacitance Resistive Models.
+  *ECMOR XVII* (Vol. 2020, No. 1, pp. 1-19). European Association of Geoscientists & Engineers.
+- Paugam, R., Rochoux, M., Cazard, M., Lapeyre, C., Mell, W., Johnston, J., and Wooster, M. (2019).
+  Computing High Resolution Fire Behavior Metrics from Prescribed Burn using Handheld Airborne Thermal Camera Observations.
+  *The 6th International Fire Behaviour and Fuels Conference, Marseille, May 2019*.
 - Lapeyre, C. J., Cazard, N., Roy, P. T., Ricci, S., & Zaoui, F. (2019).
   Reconstruction of Hydraulic Data by Machine Learning. *SimHydro 2019, Nice,
   France, June 12-14*.
