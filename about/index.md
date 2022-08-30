@@ -49,7 +49,7 @@ practice to other fields of physics.
 
 # Resume
 
-Get my resume as a [pdf](https://www.dropbox.com/s/8iql0kkistvc2jb/Resume_Corentin_Lapeyre.pdf?dl=1).
+Get my resume as a [pdf](https://www.dropbox.com/s/443ebu3d16y1rze/Resume_Corentin_Lapeyre.pdf?dl=1).
 
 ## Positions
 
@@ -75,8 +75,8 @@ Get my resume as a [pdf](https://www.dropbox.com/s/8iql0kkistvc2jb/Resume_Corent
     study of flame stability, stabilization and noise in a swirl-stabilized
     combustor under choked conditions"](http://www.theses.fr/2015INPT0140).
     [Defense video](http://hypnos.cerfacs.fr/videos/?video=MEDIA150918095835455)
-  - 2008 - 2011 : M.Sc. in Engineering at [Ecole Centrale
-    Lyon](http://www.ec-lyon.fr/)
+  - 2008 - 2011 : Douple M.Sc. : Aerospace Engineering at [Ecole Centrale
+    Lyon](http://www.ec-lyon.fr/), Energetics and Propulsion at Université Lyon 1.
   - 2005 - 2008 : Preparatory school at [Lycee
     Joffre](http://www.lyceejoffre.net/)
 
