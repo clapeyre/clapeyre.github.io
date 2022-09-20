@@ -49,11 +49,11 @@ practice to other fields of physics.
 
 # Resume
 
-Get my resume as a [pdf](https://www.dropbox.com/s/443ebu3d16y1rze/Resume_Corentin_Lapeyre.pdf?dl=1).
+Get my resume as a [pdf](https://www.dropbox.com/s/xq6uicpaabad64b/CV_C_Lapeyre.pdf?dl=1).
 
 ## Positions
 
-  - March 2018 - Present: Senior Scientist at
+  - March 2018 - Present: Research Scientist - AI for Physical Modeling at
     [CERFACS](http://cerfacs.fr/computational-fluid-dynamics/)
   - November 2016 - February 2018 : Postdoctoral fellow at
     [CERFACS](http://cerfacs.fr/computational-fluid-dynamics/)
