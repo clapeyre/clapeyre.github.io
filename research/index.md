@@ -5,6 +5,13 @@ title: Research
 
 ### Publications
 
+- Dupuy, D., Odier, N., Lapeyre, C., & Papadogiannis, D. (2023).
+  Modeling the wall shear stress in large-eddy simulation using graph neural networks. Data-Centric Engineering, 4, e7.
+  [doi:10.1017/dce.2023.2](https://doi.org/10.1017/dce.2023.2)
+- Defontaine, T., Ricci, S., Lapeyre, C., Marchandise, A., & Le Pape, E. (2023).
+  Flood forecasting with Machine Learning in a scarce data layout.
+  In IOP Conference Series: Earth and Environmental Science (Vol. 1136, No. 1, p. 012020). IOP Publishing.
+  [doi:10.1088/1755-1315/1136/1/012020](https://doi.org/10.1088/1755-1315/1136/1/012020)
 - Lazzara, M., Chevalier, M., Colombo, M., Garay Garcia, J., Lapeyre, C., Teste, O. (2022).
   Surrogate modelling for an aircraft dynamic landing loads simulation using an
   LSTM AutoEncoder-based dimensionality reduction approach, *Aerospace Science and Technology*, 126, 107629,
@@ -87,6 +94,12 @@ title: Research
 - Lapeyre, C.J., Poinsot, T. (2013). Importance of thermoacoustics in LES of combustion
   noise in realistic confined configurations. *MAMBO Workshop, October 18th
   2013, ONERA Châtillon France.* [Presentation]({{ site.url }}/data/MAMBO_C.LAPEYRE_18.10.2013.pdf)
+
+### Book Chapters
+
+- Xing, V., and C. J. Lapeyre. "Deep Convolutional Neural Networks for Subgrid-Scale Flame Wrinkling Modeling."
+  Machine Learning and Its Application to Reacting Flows: ML and Combustion. Cham: Springer International Publishing, 2023.
+  [149-174](https://link.springer.com/chapter/10.1007/978-3-031-16248-0_6).
 
 ### Technical Reports
 
