@@ -5,6 +5,10 @@ title: Research
 
 ### Publications
 
+- Coulon, V., Gaucherand, J., Xing, V., Laera, D., Lapeyre, C., & Poinsot, T. (2023).
+  Direct numerical simulations of methane, ammonia-hydrogen and hydrogen turbulent premixed flames.
+  Combustion and Flame, 256, 112933.
+  [doi:10.1016/j.combustflame.2023.112933](https://doi.org/10.1016/j.combustflame.2023.112933)
 - Dupuy, D., Odier, N., Lapeyre, C., & Papadogiannis, D. (2023).
   Modeling the wall shear stress in large-eddy simulation using graph neural networks. Data-Centric Engineering, 4, e7.
   [doi:10.1017/dce.2023.2](https://doi.org/10.1017/dce.2023.2)
