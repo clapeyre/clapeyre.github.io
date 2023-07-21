@@ -14,7 +14,8 @@ title: Research
   *Journal of Computational Physics*, 487, 112173.
   [doi.org:10.1016/j.jcp.2023.112173](https://doi.org/10.1016/j.jcp.2023.112173)
 - Dupuy, D., Odier, N., Lapeyre, C., & Papadogiannis, D. (2023).
-  Modeling the wall shear stress in large-eddy simulation using graph neural networks. Data-Centric Engineering, 4, e7.
+  Modeling the wall shear stress in large-eddy simulation using graph neural networks.
+  *Data-Centric Engineering*, 4, e7.
   [doi:10.1017/dce.2023.2](https://doi.org/10.1017/dce.2023.2)
 - Defontaine, T., Ricci, S., Lapeyre, C., Marchandise, A., & Le Pape, E. (2023).
   Flood forecasting with Machine Learning in a scarce data layout.
@@ -65,6 +66,10 @@ title: Research
 
 ### Conferences
 
+- Barrela, E., Berthet, P., Trani, M., Thual, O., & Lapeyre, C. (2023, June)
+  4D history matching using ESMDA and flow-based distance-to-front measurement.
+  In *84th EAGE Annual Conference & Exhibition* (Vol. 2023, No. 1, pp. 1-5).
+  European Association of Geoscientists & Engineers.
 - Serhani, A., Xing, V., Dupuy, D., Lapeyre, C., Staffelbach, G. (2022).
   *High-performance hybrid coupling of a CFD solver to deep neural networks*.
   *33rd Parallel CFD International Conference, May 25-27, Alba, Italy*.
