@@ -127,20 +127,27 @@ Below is a summary of the students I currently advise closely, and those I advis
 
 ## Current Students
 
-- Cheng, Lionel, Postdoctoral Fellow. *High-order unstructured numerical schemes guided by graph networks*
+- Mekonou, Lydie, Masters Intern. *Predicting extreme rainfalls in west africa using machine learning*
 - Mercier, Valentin, PhD Student. *Physical constraints for deep learning of time-evolution of Barré-Saint Venant solutions*
 - El Montassir, Rachid, PhD Student. *Hybrid data-driven and physics-informed techniques for nebulosity nowcasting*
 - Alas, Rémi, PhD Student. *Data-driven wall models for underresolved features in atmospheric simulations*
-- Serhani, Anass, Postdoctoral Fellow. *Introducing deep learning inside a high-performance massively parallel turbulent combustion solver - at scale*
 - Coulon, Victor, PhD Student. *Data-driven turbulent combustion models for hydrogen-based aircraft engines*
-- Dupuy, Dorian, Postdoctoral Fellow. *Graph neural networks for turbulence wall models in LES*
 - Defontaine, Théo, PhD Student. *Heterogeneous data aggregation for flood forecasting*
-- Lazzara, Michele, PhD Student. *Surrogate aircraft simulators using physics-informed sensor time-series*
 - Yewgat, Abderrahemane, Ph.D Student. *Physics-informed deep learning for fast reservoir forecasting*
-- Drozda, Luciano, PhD Student. *Locally adaptative unstructured numerical schemes for high precision and robustness to mesh irregularities*
-- Xing, Victor, PhD Student. *Turbulent combustion modelling using context-aware CNNs*
+- Drozda, Luciano, Postdoctoral Fellow. *Locally adaptative unstructured numerical schemes for high precision and robustness to mesh irregularities*
 
 ## Past Students
+
+### 2023
+
+- Lazzara, Michele, PhD Student (defended 2023). [*Apprentissage Profond pour la Modélisation de Systèmes Dynamiques Non-linéaires de Haute Dimension avec Traitement de Séries Temporelles Multivariées*](https://www.theses.fr/s322220)
+
+### 2022
+
+- Serhani, Anass, Postdoctoral Fellow. *Introducing deep learning inside a high-performance massively parallel turbulent combustion solver - at scale*
+- Dupuy, Dorian, Postdoctoral Fellow. *Graph neural networks for turbulence wall models in LES*
+- Cheng, Lionel, Postdoctoral Fellow. *High-order unstructured numerical schemes guided by graph networks*
+- Xing, Victor, PhD Student (defended 2022). [*Deep learning for subgrid-scale modeling in large eddy simulations of turbulent premixed combustion*](https://www.theses.fr/2022INPT0078)
 
 ### 2021
 
