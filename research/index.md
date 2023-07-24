@@ -128,6 +128,7 @@ Below is a summary of the students I currently advise closely, and those I advis
 ## Current Students
 
 - Mekonou, Lydie, Masters Intern. *Predicting extreme rainfalls in west africa using machine learning*
+- Mrini, Soufiane, Masters Intern. *Diffusion-based 3D turbulent generation*
 - Mercier, Valentin, PhD Student. *Physical constraints for deep learning of time-evolution of Barré-Saint Venant solutions*
 - El Montassir, Rachid, PhD Student. *Hybrid data-driven and physics-informed techniques for nebulosity nowcasting*
 - Alas, Rémi, PhD Student. *Data-driven wall models for underresolved features in atmospheric simulations*
@@ -141,10 +142,10 @@ Below is a summary of the students I currently advise closely, and those I advis
 ### 2023
 
 - Lazzara, Michele, PhD Student (defended 2023). [*Apprentissage Profond pour la Modélisation de Systèmes Dynamiques Non-linéaires de Haute Dimension avec Traitement de Séries Temporelles Multivariées*](https://www.theses.fr/s322220)
+- Serhani, Anass, Postdoctoral Fellow. *Introducing deep learning inside a high-performance massively parallel turbulent combustion solver - at scale*
 
 ### 2022
 
-- Serhani, Anass, Postdoctoral Fellow. *Introducing deep learning inside a high-performance massively parallel turbulent combustion solver - at scale*
 - Dupuy, Dorian, Postdoctoral Fellow. *Graph neural networks for turbulence wall models in LES*
 - Cheng, Lionel, Postdoctoral Fellow. *High-order unstructured numerical schemes guided by graph networks*
 - Xing, Victor, PhD Student (defended 2022). [*Deep learning for subgrid-scale modeling in large eddy simulations of turbulent premixed combustion*](https://www.theses.fr/2022INPT0078)
