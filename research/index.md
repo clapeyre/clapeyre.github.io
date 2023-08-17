@@ -5,6 +5,12 @@ title: Research
 
 ### Publications
 
+- Drozda, L., Mohanamuraly, P., Cheng, L., Lapeyre, C., Daviller, G., Realpe, Y., Adler, A., Staffelback, G., Poinsot, T. (2023).
+  Learning an optimised stable Taylor-Galerkin convection scheme based on a local spectral model for the numerical error dynamics.
+  *Journal of Computational Physics*, accepted for publication.
+- Shin, J., Xing, V., Pfitzner, M., & Lapeyre, C. (2023).
+  Probabilistic deep learning of turbulent premixed combustion. *AIP Advances*, 13(8).
+  [doi:10.1063/5.0146268](https://doi.org/10.1063/5.0146268)
 - Coulon, V., Gaucherand, J., Xing, V., Laera, D., Lapeyre, C., & Poinsot, T. (2023).
   Direct numerical simulations of methane, ammonia-hydrogen and hydrogen turbulent premixed flames.
   *Combustion and Flame*, 256, 112933.
