@@ -34,7 +34,7 @@ a [Python](https://www.python.org/) evangelist.  I am a daily heavy user
 of [git](https://git-scm.com/), [vim](http://www.vim.org/) and
 [LaTeX](https://tug.org/mactex/) on Mac OS and Unix platforms.
 
-My work today is at the interface between the scientific world and the
+I was a research scientist for several years, working at the interface between academia and the
 industry.  In my opinion, both can strongly benefit from each other.  The
 industry can no doubt enjoy the added edge that most recent scientific
 advancements can provide.  It might be less obvious, but I also think that
@@ -42,8 +42,13 @@ the world of scientific computing has much to learn about industry
 standards and good practices, notably in the field of software.  Open
 source is becoming ubiquitous in this area, as a tool for science and
 industry to work together.  The field of machine learning and AI are
-leading the way in this sense, and part of my mission is to spread this
+leading the way in this sense, and part of my mission was to spread this
 practice to other fields of physics.
+
+Recently, I've joined Nvidia to continue this work at the interface of academia
+and the industry. Specifically, I'm part of the Strategic Research Engagement
+team, which seeks to leverage opportunities to boost science with accelerated computing
+through deep technical collaborations with researchers across Europe.
 
 ---
 
@@ -53,10 +58,11 @@ Get my resume as a [pdf](https://www.dropbox.com/s/xq6uicpaabad64b/CV_C_Lapeyre.
 
 ## Positions
 
-  - March 2018 - Present: Research Scientist - AI for Physical Modeling at
-    [CERFACS](http://cerfacs.fr/computational-fluid-dynamics/)
+  - Feb 2024 - Present: Developer Relations - Researcher Engagement at [Nvidia](https://www.nvidia.com)
+  - March 2018 - Feb 2024: Research Scientist - AI for Physical Modeling at
+    [CERFACS](http://cerfacs.fr)
   - November 2016 - February 2018 : Postdoctoral fellow at
-    [CERFACS](http://cerfacs.fr/computational-fluid-dynamics/)
+    [CERFACS](http://cerfacs.fr)
   - May 2015 - October 2016 : Postdoctoral fellow at
     [IMFT](https://www.imft.fr/Particules-Sprays-et-Combustion)
   - 2012 - 2014 : Teaching assistant in physics at
