@@ -54,7 +54,7 @@ through deep technical collaborations with researchers across Europe.
 
 # Resume
 
-Get my resume as a [pdf](https://www.dropbox.com/s/xq6uicpaabad64b/CV_C_Lapeyre.pdf?dl=1).
+Get my resume as a [pdf](https://www.dropbox.com/scl/fi/k8b0xk0vopo0x4viugjr2/Lapeyre-CV-2024.pdf?rlkey=asz2wzi78lhdzfwb9krw9w482&dl=1).
 
 ## Positions
 
