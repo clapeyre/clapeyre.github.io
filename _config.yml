@@ -1,8 +1,8 @@
 # Site settings
 title: Homepage of Corentin J. Lapeyre
-email: corentin.lapeyre@gmail.com
+email: clapeyre@nvidia.com
 description: > # this means to ignore newlines until "baseurl:"
-  Homepage of Corentin J. Lapeyre, Research Scientist at CERFACS, Toulouse France
+  Homepage of Corentin J. Lapeyre, Researcher Engagement at NVIDIA, Toulouse France
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://clapeyre.github.io" # the base hostname & protocol for your site
 
@@ -17,7 +17,7 @@ kramdown:
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: lapeyre@cerfacs.fr
+  email: clapeyre@nvidia.com
   #facebook: corentin.lapeyre
   flickr:
   github: clapeyre
