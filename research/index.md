@@ -133,20 +133,23 @@ Below is a summary of the students I currently advise closely, and those I advis
 
 ## Current Students
 
-- Mekonou, Lydie, Masters Intern. *Predicting extreme rainfalls in west africa using machine learning*
-- Mrini, Soufiane, Masters Intern. *Diffusion-based 3D turbulent generation*
 - Mercier, Valentin, PhD Student. *Physical constraints for deep learning of time-evolution of Barré-Saint Venant solutions*
 - El Montassir, Rachid, PhD Student. *Hybrid data-driven and physics-informed techniques for nebulosity nowcasting*
 - Alas, Rémi, PhD Student. *Data-driven wall models for underresolved features in atmospheric simulations*
 - Coulon, Victor, PhD Student. *Data-driven turbulent combustion models for hydrogen-based aircraft engines*
-- Defontaine, Théo, PhD Student. *Heterogeneous data aggregation for flood forecasting*
-- Yewgat, Abderrahemane, Ph.D Student. *Physics-informed deep learning for fast reservoir forecasting*
-- Drozda, Luciano, Postdoctoral Fellow. *Locally adaptative unstructured numerical schemes for high precision and robustness to mesh irregularities*
 
 ## Past Students
 
+### 2024
+
+- Defontaine, Théo, PhD Student. *Heterogeneous data aggregation for flood forecasting*
+- Drozda, Luciano, Postdoctoral Fellow. *Locally adaptative unstructured numerical schemes for high precision and robustness to mesh irregularities*
+
 ### 2023
 
+- Yewgat, Abderrahemane, Ph.D Student (dropped-out). *Physics-informed deep learning for fast reservoir forecasting*
+- Mekonou, Lydie, Masters Intern. *Predicting extreme rainfalls in west africa using machine learning*
+- Mrini, Soufiane, Masters Intern. *Diffusion-based 3D turbulent generation*
 - Lazzara, Michele, PhD Student (defended 2023). [*Apprentissage Profond pour la Modélisation de Systèmes Dynamiques Non-linéaires de Haute Dimension avec Traitement de Séries Temporelles Multivariées*](https://www.theses.fr/s322220)
 - Serhani, Anass, Postdoctoral Fellow. *Introducing deep learning inside a high-performance massively parallel turbulent combustion solver - at scale*
 
