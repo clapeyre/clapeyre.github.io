@@ -5,6 +5,18 @@ title: Research
 
 ### Publications
 
+- Serhani, A., Xing, V., Dupuy, D., Lapeyre, C., & Staffelbach, G. (2024).
+  Graph and convolutional neural network coupling with a high-performance large-eddy simulation solver.
+  *Computers & Fluids*, 106306.
+- Dupuy, D., Odier, N., & Lapeyre, C. (2024).
+  Using graph neural networks for wall modeling in compressible anisothermal flows.
+  *Data-Centric Engineering*, 5, e10.
+- Barrela, E., Berthet, P., Trani, M., Thual, O., & Lapeyre, C. (2023).
+  Four-Dimensional History Matching Using ES-MDA and Flow-Based Distance-to-Front Measurement.
+  *Energies*, 16(24), 7984.
+- Guiberti, T. F., Shohdy, N. N., Cardona, S., Zhu, X., Selle, L., & Lapeyre, C. J. (2023).
+  Chemiluminescence-and machine learning-based monitoring of premixed ammonia-methane-air flames.
+  *Applications in Energy and Combustion Science*, 16, 100212.
 - Drozda, L., Mohanamuraly, P., Cheng, L., Lapeyre, C., Daviller, G., Realpe, Y., Adler, A., Staffelback, G., Poinsot, T. (2023).
   Learning an optimised stable Taylor-Galerkin convection scheme based on a local spectral model for the numerical error dynamics.
   *Journal of Computational Physics*, accepted for publication.
@@ -23,10 +35,6 @@ title: Research
   Modeling the wall shear stress in large-eddy simulation using graph neural networks.
   *Data-Centric Engineering*, 4, e7.
   [doi:10.1017/dce.2023.2](https://doi.org/10.1017/dce.2023.2)
-- Defontaine, T., Ricci, S., Lapeyre, C., Marchandise, A., & Le Pape, E. (2023).
-  Flood forecasting with Machine Learning in a scarce data layout.
-  In IOP Conference Series: Earth and Environmental Science (Vol. 1136, No. 1, p. 012020). IOP Publishing.
-  [doi:10.1088/1755-1315/1136/1/012020](https://doi.org/10.1088/1755-1315/1136/1/012020)
 - Lazzara, M., Chevalier, M., Colombo, M., Garay Garcia, J., Lapeyre, C., Teste, O. (2022).
   Surrogate modelling for an aircraft dynamic landing loads simulation using an
   LSTM AutoEncoder-based dimensionality reduction approach, *Aerospace Science and Technology*, 126, 107629,
@@ -72,10 +80,16 @@ title: Research
 
 ### Conferences
 
+- Defontaine, T., Ricci, S., Lapeyre, C. J., Marchandise, A., & Le Pape, E. (2024).
+  Real-time flood forecasting with Machine Learning using scarce rainfall-runoff data. *EGUsphere*, 2024, 1-32.
 - Barrela, E., Berthet, P., Trani, M., Thual, O., & Lapeyre, C. (2023, June)
   4D history matching using ESMDA and flow-based distance-to-front measurement.
   In *84th EAGE Annual Conference & Exhibition* (Vol. 2023, No. 1, pp. 1-5).
   European Association of Geoscientists & Engineers.
+- Defontaine, T., Ricci, S., Lapeyre, C., Marchandise, A., & Le Pape, E. (2023).
+  Flood forecasting with Machine Learning in a scarce data layout.
+  In IOP Conference Series: Earth and Environmental Science (Vol. 1136, No. 1, p. 012020). IOP Publishing.
+  [doi:10.1088/1755-1315/1136/1/012020](https://doi.org/10.1088/1755-1315/1136/1/012020)
 - Serhani, A., Xing, V., Dupuy, D., Lapeyre, C., Staffelbach, G. (2022).
   *High-performance hybrid coupling of a CFD solver to deep neural networks*.
   *33rd Parallel CFD International Conference, May 25-27, Alba, Italy*.
